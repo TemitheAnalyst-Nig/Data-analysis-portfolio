@@ -1,8 +1,7 @@
 **Data Analysis Portfolio**
-
 This repository contains my data analysis projects, which utilize SQL, Python, Excel, Power BI, Tableau, Looker Studio, and Google BigQuery.
 
-## Repository Structure
+**Repository Structure**
 projects/
 sales-performance-analysis/
 customer-churn-analysis/
