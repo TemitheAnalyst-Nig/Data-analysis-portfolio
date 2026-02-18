@@ -44,6 +44,10 @@ This project answers **three strategic business questions**:
 * **Cohort Retention Analysis**
 
 ---
+<img width="1919" height="940" alt="Screenshot 2026-02-17 224203" src="https://github.com/user-attachments/assets/bc5dc29e<img width="1919" height="1003" alt="Screenshot 2026-02-17 224218" src="https://github.com/user-attachments/assets/1b25cffd-e49a-4a7f-b0d2-d1067f3f6fec" />
+-f66d-4c98-9317-6b8a679dbcdb" /><img width="1854" height="793" alt="Screenshot 2026-02-18 130832" src="https://github.com/user-attachments/assets/606d5b02-df8b-4cfd-b7f4-49f7640c272e" />
+<img width="1858" height="771" alt="Screenshot 2026-02-18 131311" src="https://github.com/user-attachments/assets/11ac37c8-e0c4-440e-bbc6-2e49fff8bb35" />
+
 
 ## 📦 Data Pipeline Architecture
 
@@ -127,12 +131,7 @@ High-value customers generate **disproportionate revenue contribution**.
 ---
 
 ## 📊 Executive Dashboard
-
-### 🔹 Executive Summary Page
-
-## 🔹 Executive Summary Page
-
-
+<img width="988" height="745" alt="Screenshot 2026-02-18 172518" src="https://github.com/user-attachments/assets/a812435d-d64b-4d6e-a160-10c4485d4fa3" />
 
 **Displays:**
 
@@ -151,7 +150,8 @@ Provides a **rapid strategic overview** for executive decision-makers.
 
 ### 🔹 Customer Behaviour & Value
 
-*(Insert screenshot here)*
+<img width="993" height="747" alt="Screenshot 2026-02-18 172530" src="https://github.com/user-attachments/assets/6758d366-ba21-4b01-8c50-397a91d83fde" />
+
 
 **Displays:**
 
@@ -167,7 +167,8 @@ Explains **revenue drivers** and **customer engagement depth**.
 
 ### 🔹 Funnel & Growth Opportunities
 
-*(Insert screenshot here)*
+<img width="987" height="748" alt="Screenshot 2026-02-18 172542" src="https://github.com/user-attachments/assets/185d3826-c839-468a-8c5e-580a8f384785" />
+
 
 **Displays:**
 
