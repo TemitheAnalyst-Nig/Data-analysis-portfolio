@@ -44,9 +44,13 @@ This project answers **three strategic business questions**:
 * **Cohort Retention Analysis**
 
 ---
-<img width="1919" height="940" alt="Screenshot 2026-02-17 224203" src="https://github.com/user-attachments/assets/bc5dc29e<img width="1919" height="1003" alt="Screenshot 2026-02-17 224218" src="https://github.com/user-attachments/assets/1b25cffd-e49a-4a7f-b0d2-d1067f3f6fec" />
--f66d-4c98-9317-6b8a679dbcdb" /><img width="1854" height="793" alt="Screenshot 2026-02-18 130832" src="https://github.com/user-attachments/assets/606d5b02-df8b-4cfd-b7f4-49f7640c272e" />
-<img width="1858" height="771" alt="Screenshot 2026-02-18 131311" src="https://github.com/user-attachments/assets/11ac37c8-e0c4-440e-bbc6-2e49fff8bb35" />
+
+<img width="1919" height="940" alt="Screenshot 2026-02-17 224203" src="https://github.com/user-attachments/assets/51661945-1262-4d05-a0b1-6ef2cab137fb" />
+<img width="1919" height="1003" alt="Screenshot 2026-02-17 224218" src="https://github.com/user-attachments/assets/ed5b85ae-c9d5-4a8e-bdb9-a181b44738e4" />
+<img width="1854" height="793" alt="Screenshot 2026-02-18 130832" src="https://github.com/user-attachments/assets/f9863337-a70a-455e-a452-be745eaba5a5" />
+
+<img width="1858" height="771" alt="Screenshot 2026-02-18 131311" src="https://github.com/user-attachments/assets/46e13e43-a8b6-4539-8cb2-4f2d50b8ea9e" />
+<img width="1464" height="943" alt="Screenshot 2026-02-18 170951" src="https://github.com/user-attachments/assets/bd5c4f9c-7e85-4250-88dd-f62b6304da67" />
 
 
 ## 📦 Data Pipeline Architecture
