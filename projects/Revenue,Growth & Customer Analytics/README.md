@@ -132,7 +132,7 @@ High-value customers generate **disproportionate revenue contribution**.
 
 ## 🔹 Executive Summary Page
 
-![Executive Summary Dashboard](images/executive-summary.png)
+
 
 **Displays:**
 
