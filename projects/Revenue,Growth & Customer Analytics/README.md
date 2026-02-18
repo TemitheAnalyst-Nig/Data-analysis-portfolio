@@ -1,1 +1,190 @@
+# 📊 Online Retail II – Customer Retention & Revenue Intelligence Dashboard
+
+## 🔎 Project Overview
+
+This project transforms the **Online Retail II** dataset into a **scalable, executive-level business intelligence system** designed to analyze:
+
+* Customer retention
+* Repeat purchase behavior
+* RFM segmentation
+* Customer lifetime value (CLV)
+* Cohort revenue trends
+* Funnel leakage points
+
+The goal was to build a **fully reproducible analytics workflow** — from raw data acquisition to **cloud-based BI dashboarding**.
+
+---
+
+## 🧠 Business Problem
+
+E-commerce revenue growth depends on the ability to:
+
+* Retain customers
+* Increase repeat purchase rates
+* Identify high-value customer segments
+* Detect churn risk early
+
+This project answers **three strategic business questions**:
+
+1. **Who drives revenue?**
+2. **Will revenue sustain over time?**
+3. **Where are we losing growth opportunities?**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Python (Pandas)**
+* **Google Colab**
+* **Kaggle API**
+* **Google Cloud Storage**
+* **BigQuery** (SQL validation & hosting)
+* **Looker Studio** (Executive dashboarding)
+* **RFM Modeling**
+* **Cohort Retention Analysis**
+
+---
+
+## 📦 Data Pipeline Architecture
+
+The project follows a **cloud-native, reproducible analytics pipeline**:
+
+1. Kaggle API configured securely in **Google Colab**
+2. Dataset downloaded programmatically
+3. Data cleaned and validated using **Pandas**
+4. Large cleaned dataset uploaded to **Google Cloud Storage**
+5. Loaded into **BigQuery** for scalable querying and validation
+6. Connected live to **Looker Studio**
+7. Interactive executive dashboards created
+
+This architecture ensures:
+
+* **Reproducibility**
+* **Cloud scalability**
+* **Business-intelligence readiness**
+
+---
+
+## 🧹 Data Cleaning & Preparation
+
+### Key Cleaning Steps
+
+* Removed duplicate transactions
+* Filtered **Quantity ≤ 0** (returns and entry errors)
+* Converted **InvoiceDate → datetime format**
+* Cast **CustomerID** and **Invoice** as string fields
+* Filled missing product descriptions
+* Excluded rows with missing **CustomerID** for customer-level analysis
+
+**Final cleaned dataset:**
+➡ **1,044,421 valid customer transactions**
+
+---
+
+## 📈 Analytical Framework
+
+### 1️⃣ Cohort Retention Analysis
+
+* Customers grouped by **first purchase month**
+* Retention percentage tracked across subsequent months
+* Cohort **revenue matrix** constructed
+
+**Key Insight:**
+Retention drops sharply after **Month 1**, revealing **early churn risk**.
+
+---
+
+### 2️⃣ RFM Segmentation
+
+Calculated for each customer:
+
+* **Recency**
+* **Frequency**
+* **Monetary Value**
+
+Customers segmented into:
+
+* **Champions**
+* **Loyal Customers**
+* **Potential Loyalists**
+* **At Risk**
+* **Lost**
+
+**Key Insight:**
+Revenue is **heavily concentrated** among **Champions** and **Loyal Customers**.
+
+---
+
+### 3️⃣ Repeat Purchase & Customer Lifetime Value (CLV)
+
+* **Repeat Purchase Rate:** **72%**
+* **Average Order Value (AOV)** computed per customer
+* **CLV = AOV × Frequency**
+
+**Key Insight:**
+High-value customers generate **disproportionate revenue contribution**.
+
+---
+
+## 📊 Executive Dashboard
+
+### 🔹 Executive Summary Page
+
+## 🔹 Executive Summary Page
+
+![Executive Summary Dashboard](images/executive-summary.png)
+
+**Displays:**
+
+* Total Revenue: **20.9M**
+* Active Customers: **5,882**
+* Repeat Purchase Rate: **72%**
+* Revenue Trend (**2009–2011**)
+* Revenue by Country
+* Revenue by **RFM Segment**
+* Average **CLV by Segment**
+
+**Purpose:**
+Provides a **rapid strategic overview** for executive decision-makers.
+
+---
+
+### 🔹 Customer Behaviour & Value
+
+*(Insert screenshot here)*
+
+**Displays:**
+
+* Customer segment distribution
+* Repeat vs. one-time customers
+* Order frequency distribution
+* AOV by segment
+
+**Purpose:**
+Explains **revenue drivers** and **customer engagement depth**.
+
+---
+
+### 🔹 Funnel & Growth Opportunities
+
+*(Insert screenshot here)*
+
+**Displays:**
+
+* Purchase frequency funnel
+* AOV vs. frequency relationship
+
+**Purpose:**
+Identifies **retention leakages** and **scalable growth levers**.
+
+---
+
+## 🚀 Business Recommendations
+
+* Improve **second-purchase conversion** to reduce early churn
+* Prioritize retention of **Champions** and **Loyal Customers**
+* Launch lifecycle campaigns targeting **Potential Loyalists**
+* Implement **re-engagement strategies** for **At-Risk** segments
+
+## Link to the Dashboard on Looker Studio:https://lookerstudio.google.com/reporting/cb7f0a55-6a95-495a-ba14-98f9430bcad4
 
