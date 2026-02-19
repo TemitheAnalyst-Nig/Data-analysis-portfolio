@@ -6,6 +6,7 @@ https://app.powerbi.com/links/LrKKpYQxKl?ctid=05d71bc3-f39b-4a76-b03f-9d628db428
 ### Customer Analytics Case Study (Power BI)
 
 ## 1. Project Overview
+<img width="1232" height="684" alt="Screenshot 2026-02-07 170737" src="https://github.com/user-attachments/assets/e326961b-1b85-4f49-8cef-ec021c78a4fe" />
 
 In the competitive landscape of international food distribution, organizations must continuously optimize revenue, strengthen customer retention, and identify emerging growth opportunities.
 
@@ -124,6 +125,10 @@ The dashboard demonstrates how customer analytics can:
 * Detect **early churn signals**
 * Improve **marketing efficiency and ROI**
 * Support **strategic, data-driven decision-making**
+<img width="1194" height="684" alt="Screenshot 2026-02-07 170800" src="https://github.com/user-attachments/assets/8b65caec-dcb5-4d05-91c8-e35080da287f" />
+<img width="1213" height="681" alt="Screenshot 2026-02-07 170813" src="https://github.com/user-attachments/assets/58a88172-d152-41f7-a742-fbce07abbca8" />
+<img width="1222" height="685" alt="Screenshot 2026-02-07 170825" src="https://github.com/user-attachments/assets/ca84d208-caaa-4dd3-aeb0-c01b321c1f22" />
+<img width="1231" height="669" alt="Screenshot 2026-02-07 170835" src="https://github.com/user-attachments/assets/5539aa64-ff03-4ee9-867e-47c4044e5d8e" />
 
 ---
 
