@@ -281,7 +281,7 @@ Potential outcomes include:
 
 ## Excel Dashboard
 
-![Excel Dashboard](projects/Product & User Behaviour Analytics/Excel.png)
+
 
 ## Tableau Dashboard
 
