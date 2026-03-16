@@ -1,4 +1,4 @@
-# GLOBAL SUPERSTORE PROFITABILITY ANALYSIS (2021–2027)
+# SUPERSTORE PROFITABILITY ANALYSIS (2021–2027)
 
 ![Analytics](https://img.shields.io/badge/Data%20Analysis-Business%20Analytics-blue)
 ![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20Tableau%20%7C%20Regression-green)
@@ -251,7 +251,7 @@ Lower return rates and optimize shipping costs.
 Focus on **Champion customers** who generate the highest profits.
 
 ### 5. Reduce Seasonal Dependence
-Introduce marketing strategies during low demand periods.
+Introduce marketing strategies during low-demand periods.
 
 ---
 
@@ -281,7 +281,7 @@ Potential outcomes include:
 
 ## Excel Dashboard
 
-![Excel Dashboard](images/excel_dashboard.png)
+![Excel Dashboard](  )
 
 ## Tableau Dashboard
 
