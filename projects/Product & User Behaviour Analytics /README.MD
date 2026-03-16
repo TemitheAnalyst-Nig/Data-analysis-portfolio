@@ -285,7 +285,7 @@ Potential outcomes include:
 
 ## Tableau Dashboard
 
-![Tableau Dashboard](images/tableau_dashboard.png)
+
 
 ---
 
