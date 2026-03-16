@@ -280,7 +280,7 @@ Potential outcomes include:
 # PROJECT DASHBOARDS
 
 ## Excel Dashboard
-(projects/Product & User Behaviour Analytics/Excel.jpeg)
+![Excel Image]("projects/Product & User Behaviour Analytics/Excel.jpeg")
 
 
 ## Tableau Dashboard
