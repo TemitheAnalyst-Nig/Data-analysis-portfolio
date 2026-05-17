@@ -33,16 +33,16 @@
 ## 📸 Dashboard Screenshots
 
 ### Executive Summary
-
+projects/Healthcare & Public Sector/Picture1.jpg
 
 ### Claims Performance
-![Claims Performance](screenshots/page2-claims-performance.png)
+projects/Healthcare & Public Sector/Picture2.jpg
 
 ### Fraud & Anomaly Detection
-![Fraud Detection](screenshots/page3-fraud-detection.png)
+projects/Healthcare & Public Sector/Picture3.jpg
 
 ### Operational Efficiency
-![Operational Efficiency](screenshots/page4-operational-efficiency.png)
+projects/Healthcare & Public Sector/Picture4.jpg
 
 ---
 
