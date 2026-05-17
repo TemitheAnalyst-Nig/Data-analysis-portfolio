@@ -33,7 +33,7 @@
 ## 📸 Dashboard Screenshots
 
 ### Executive Summary
-projects/Healthcare & Public Sector/Picture1.jpg
+!projects/Healthcare & Public Sector/Picture1.jpg
 
 ### Claims Performance
 projects/Healthcare & Public Sector/Picture2.jpg
