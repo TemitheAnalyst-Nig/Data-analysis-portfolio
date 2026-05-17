@@ -81,4 +81,4 @@
 ---
 
 ## 📬 Let's Connect
-[LinkedIn](YOUR_LINKEDIN_URL) · Open to Data Analyst & BI roles
+ Open to Data Analyst & BI roles
