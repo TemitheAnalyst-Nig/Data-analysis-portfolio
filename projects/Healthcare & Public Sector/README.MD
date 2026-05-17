@@ -5,10 +5,6 @@
 
 ---
 
-## 🔗 Live Dashboard
-[👉 View on Power BI Service](YOUR_POWERBI_LINK_HERE)
-
----
 
 ## 📊 Dashboard Pages
 
@@ -37,7 +33,7 @@
 ## 📸 Dashboard Screenshots
 
 ### Executive Summary
-![Executive Summary](screenshots/page1-executive-summary.png)
+
 
 ### Claims Performance
 ![Claims Performance](screenshots/page2-claims-performance.png)
