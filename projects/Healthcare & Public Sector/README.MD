@@ -33,7 +33,7 @@
 ## 📸 Dashboard Screenshots
 
 ### Executive Summary
-!projects/Healthcare & Public Sector/Picture1.jpg
+"C:\Users\Daodu\Music\Picture1.jpg"
 
 ### Claims Performance
 projects/Healthcare & Public Sector/Picture2.jpg
